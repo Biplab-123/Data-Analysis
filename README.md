@@ -1,5 +1,6 @@
 # Data-Analysis
 
+#Store Sales Data Analysis
 Sales Data of a Store as per months and gender and age group wise
 It helped the business to know more about their business improvement scope for the upcoming quater
 I have analyzed the Data both using Excel Pivot Table and Chart and also by Using Tableau Public Plartform.
